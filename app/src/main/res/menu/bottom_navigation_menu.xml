@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_qurs"
+        android:icon="@drawable/ic_payment_black_24dp"
+        android:title="qurs"/>
+    <item android:id="@+id/bottom_misa"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+        android:title="misa"/>
+    <item android:id="@+id/bottom_irat"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="irat"/>
+    <item android:id="@+id/bottom_account"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Account"/>
+
+</menu>
